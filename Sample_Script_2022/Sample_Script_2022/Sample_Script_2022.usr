@@ -1,0 +1,75 @@
+[Actions]
+vuser_init=vuser_init.c
+Action=Action.c
+vuser_end=vuser_end.c
+[Modified Actions]
+vuser_init=1
+Action=1
+vuser_end=0
+[Recorded Actions]
+vuser_init=0
+Action=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Interpreters]
+vuser_init=cci
+Action=cci
+vuser_end=cci
+[ExtraFiles]
+globals.h=
+[TransactionsOrder]
+Order="Landing Page__*delimiter*__Sign In__*delimiter*__Search product__*delimiter*__Search product__*delimiter*__Choose product__*delimiter*__Select color__*delimiter*__Add to cart__*delimiter*__Proceed to checkout__*delimiter*__Shipping options__*delimiter*__Place order__*delimiter*__Log Out"
+[UserDataPoint]
+DataPoint01=
+DataPoint02=
+tcp_connect=
+tcp_connection_count=
+mic_recv=
+HTTP_200=
+HTTP_304=
+HTTP_404=
+HTTP_302=
+tcp_shutdown=
+DataPoint03=
+DataPoint04=
+HTTP_500=
+DataPoint05=
+[General]
+Type=Multi
+AdditionalTypes=QTWeb
+GenerateTypes=QTWeb
+ActiveTypes=QTWeb
+ScriptLanguage=C
+RunType=cci
+LastCodeGenerationVer=
+DisableRegenerate=0
+Encoding=
+Description=
+MajorVersion=2022
+MinorVersion=2
+LastModifyVer=2022.2.0.0
+ScriptLocale=en-US
+DefaultCfg=default.cfg
+DFERebrandFlag=Done
+ParameterFile=Sample_Script_2022.prm
+ParamLeftBrace={
+ParamRightBrace=}
+[StateManagement]
+LastReplayStatus=3
+[ActiveReplay]
+LastReplayedRunName=
+ActiveRunName=
+[Transactions]
+"Landing Page"=
+"Sign In"=
+"Search product"=
+"Choose product"=
+"Select color"=
+"Add to cart"=
+"Proceed to checkout"=
+"Shipping options"=
+"Place order"=
+"Log Out"=
