@@ -1,0 +1,2 @@
+- name: LoadRunner Cloud
+  uses: MicroFocus/lrc-gh-action@v1.0.6
