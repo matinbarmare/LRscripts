@@ -1,0 +1,8 @@
+[t2]
+FileName1=t2_seed.html
+URL1=https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=68
+Total=2
+ContentType=image/png
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_closeDark.png
+URL2=http://nimbusserver.aos.com:8000/css/images/closeDark.png

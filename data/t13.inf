@@ -1,0 +1,11 @@
+[t13]
+FileName1=t13_popularProducts.html
+URL1=http://nimbusserver.aos.com:8000/app/tempFiles/popularProducts.json
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_13.xml
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t13_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

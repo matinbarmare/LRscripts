@@ -1,0 +1,26 @@
+Virtual User Script started at: 5/13/2020 12:39:42 PM
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Connect succeeded on try 1: comm-type = tn3270;host-name = localhost;use-tn3270e-protocol = true;security-type = unsecured;r2l-screen = false;lu-name = ;terminal-type = 3270 display;terminal-model = 3278-2-e (24x80);login-command-file = ;terminal-setup-file = ;.
+TE_type: typed text = mercury<kTab>
+TE_type: typed text = mercury<kEnter>
+TE_type: typed text = cicsv<kEnter>
+TE_type: typed text = 4<kEnter>
+TE_type: typed text = <kF4>
+TE_type: typed text = <kF7>
+TE_type: typed text = <kDown>
+TE_type: typed text = <kDown>
+TE_type: typed text = <kDown>
+TE_type: typed text = x<kEnter>
+TE_type: typed text = <kF3>
+TE_type: typed text = 99
+TE_type: typed text = <kEnter>
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

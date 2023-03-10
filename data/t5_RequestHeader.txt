@@ -1,0 +1,11 @@
+POST /ListAccounts?gpsia=1&source=durations_metrics,counter:0,load_time_ms:320&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-US,en;q=0.9
+Cookie: NID=154=Fejse9NzHqe3GZ-eaL-tkYfret-ydRUcyW27E4VSgCD1cs_4Akr4aylDoufdlZyBuNczsZjE-pNjndopbRDRR-sGT4Ra7o3AYp_pNCRoBnR3BijvAJChVuuK7MO9LMp4zNWBJGy0uMj5m6y3OcMxT7SplGR6zVgHrXFPa7zGKUE; 1P_JAR=2019-1-14-17
+
