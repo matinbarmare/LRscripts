@@ -1,0 +1,11 @@
+[t6]
+FileName1=t6.html
+URL1=http://nimbusserver:8001/accountservice/GetAccountConfigurationRequest
+Total=1
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=
+SnapshotXmlFile=snapshot_6.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

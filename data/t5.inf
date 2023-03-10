@@ -1,0 +1,13 @@
+[t5]
+FileName1=t5.html
+URL1=https://accounts.google.com/ListAccounts?gpsia=1&source=durations_metrics,counter:0,load_time_ms:320&json=standard
+Total=2
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=t5_RequestBody.txt
+ResponseHeaderFile=t5_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_5.xml
+FileName2=t5_collect.gif
+URL2=http://www.google-analytics.com/r/collect?v=1&_v=j72&a=1490997117&t=pageview&_s=1&dl=http%3A%2F%2Fnimbusserver.aos.com%2F&ul=en-us&de=UTF-8&dt=%C2%A0Advantage%20Shopping&sd=24-bit&sr=1676x866&vp=1111x526&je=0&_u=IEBAAEAB~&jid=259693439&gjid=621444900&cid=1800259915.1547498926&tid=UA-81334227-1&_gid=225846391.1547498926&_r=1&z=276360492
+[ProtocolInfo]
+ProtocolId=QTWeb
