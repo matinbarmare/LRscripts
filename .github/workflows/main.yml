@@ -1,4 +1,4 @@
-- name: LoadRunner Cloud
+name: LoadRunner Cloud
   # You may pin to the exact commit or the version.
   # uses: MicroFocus/lrc-gh-action@e73d11dd1db08b1c8fbeab1d561ffd22f1ed134d
   uses: MicroFocus/lrc-gh-action@v1.0.6
