@@ -29,7 +29,7 @@ jobs:
     name: Start a load test
     steps:
       - name: Run test in LoadRunner Cloud
-        uses: MicroFocus/lrc-gh-action@v1
+        uses: MicroFocus/lrc-gh-action@v1.0.6
         id: lrc_run_test
         env:
           LRC_CLIENT_ID: 'oauth2-Yefr3WkfStbaEiFn79Vf@microfocus.com'
