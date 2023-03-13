@@ -2,7 +2,7 @@ on:
   workflow_dispatch:
 jobs:
   load_test:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     name: Start a load test
     steps:
       - name: Run test in LoadRunner Cloud
