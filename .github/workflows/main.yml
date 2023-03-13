@@ -6,7 +6,7 @@ jobs:
     name: Start a load test
     steps:
       - name: Run test in LoadRunner Cloud
-        uses: MicroFocus/lrc-gh-action@v1.0.4
+        uses: MicroFocus/lrc-gh-action@v1.0.5
         id: lrc_run_test
         env:
           LRC_CLIENT_ID: ${{secrets.LRC_CLIENT_ID}}
